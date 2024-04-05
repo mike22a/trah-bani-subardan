@@ -250,6 +250,7 @@
 </summary>
 
 <b>1️⃣. Burhan Fatkhur Rohman  dan  Ikrimah Nur Hayati.</b>
+
 <b>2️⃣. Aufa Haliza Achmad</b>
 </details>
 
@@ -316,6 +317,7 @@
 </details>
 
 <b>3️⃣. Afnan Fauzi Hidayat</b>
+
 <b>4️⃣. Fathina Rifa Hidayati</b>
 
 </details>
@@ -329,6 +331,7 @@
 </summary>
 
 <b>1️⃣. Yusron Farid Mustafa</b>
+
 <b>2️⃣. Arvin Alan Gifari</b>
 
 </details>
