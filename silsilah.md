@@ -316,7 +316,6 @@
 </summary>
 
 1. Athafariz Zayyan Malik
-
 2. Atharrazka Zaidan Rafif
 
 </details>
@@ -345,8 +344,7 @@
 <b>Bp Nasir Mustafa dan  Ibu Nur Farida Suryani </b>
 </summary>
 
-<b>1️⃣. Yusron Farid Mustafa</b>
-
+<b>1️⃣. Yusron Farid Mustafa</b> <br>
 <b>2️⃣. Arvin Alan Gifari</b>
 
 </details>
