@@ -25,19 +25,19 @@
 
 <details>
 <summary>
-    <b>1️⃣. Ufiek Nur Arifah Hidayati  dan  Wildan Tojibi  </b>
+    <b>1️. Ufiek Nur Arifah Hidayati  dan  Wildan Tojibi  </b>
 </summary>
 
 <details>
 <summary>
-1.1 Muhammad Nur Hakimuddin  dan  Fadhilah Siti Aniisah Haryono
+1. Muhammad Nur Hakimuddin  dan  Fadhilah Siti Aniisah Haryono
 </summary>
 
-1.1.1 Alesha Hikari Rezqia Eldina (canggah)
+1. Alesha Hikari Rezqia Eldina (canggah)
 </details>
 
-1.2. Amelia Amrina Rosyada
-1.3. Adinda Raudhatur Rizka
+2. Amelia Amrina Rosyada
+3. Adinda Raudhatur Rizka
 </details>
 
 <details>
@@ -45,9 +45,9 @@
 <b> 2️⃣.  Ratna Listyaningsih  dan  Indrawanto </b>
 </summary>
 
-2.1. Muhammad Shafly Muwaffaq
-2.2. Muhammad Daffa Al Ghifari
-2.3. Muhammad Alfian Ainurrizqi
+1. Muhammad Shafly Muwaffaq
+2. Muhammad Daffa Al Ghifari
+3. Muhammad Alfian Ainurrizqi
 </details>
 
 <details>
@@ -55,18 +55,18 @@
 <b> 3️⃣. Arif Hanafi Nurdin  dan  Siti Rosyidah</b>
 </summary>
 
-3.1. Ahmad Farhan Ar Rosyid
-3.2. Ahmad Zidan Ar Rosyid
-3.3. Nadya Adilla Hanafi Putri
+1. Ahmad Farhan Ar Rosyid
+2. Ahmad Zidan Ar Rosyid
+3. Nadya Adilla Hanafi Putri
 </details>
 <details>
 <summary>
 <b> 4️⃣. Erna Rahmawati  dan  Wratsongko Sri Kawuryan</b>
 </summary>
 
-4.1. Alifia Zahra Pramesti 
-4.2. Anindya Alya  Khairunnisa
-4.3. Aviccena Maulana Albaihaqi
+1. Alifia Zahra Pramesti 
+2. Anindya Alya  Khairunnisa
+3. Aviccena Maulana Albaihaqi
 </details>
 </details>
 
@@ -83,8 +83,8 @@
 <b> 1️⃣. Afandi Nurhidayat  dan  Luluk Yuliatik</b>
 </summary>
 
-1.1 Muh Farandi Khusnan 
-1.2 Zahra Khairunisa
+1. Muh Farandi Khusnan 
+2. Zahra Khairunisa
 </details>
 
 <details>
@@ -92,8 +92,8 @@
 <b> 2️⃣. Ahmad Sukri Chusnan  dan  Zenny Nugraheni</b>
 </summary>
 
-2.1 Yusuf Ahmad Khairy
-2.2 Farid Ahmad Faisal
+1. Yusuf Ahmad Khairy
+2. Farid Ahmad Faisal
 </details>
 
 <details>
@@ -101,8 +101,8 @@
 <b> 3️⃣. Very Zukhdi Santoso  dan  Risalatin Sutadi</b>
 </summary>
 
-3.1 Delila Azaliyya Zukhdi S 
-3.2 Taftazani Zukhdi A
+1. Delila Azaliyya Zukhdi S 
+2. Taftazani Zukhdi A
 </details>
 
 <details>
@@ -110,7 +110,7 @@
 <b> 4️⃣. Rahmad Abidin  dan  Eka Rachmawaty</b>
 </summary>
 
-4.1 Fatimah Humaira Az Zahra
+1. Fatimah Humaira Az Zahra
 </details>
 
 <details>
@@ -133,16 +133,16 @@
 <b>1️⃣. Faricha Rahmawati  dan  Bambang Setyawan </b>
 </summary>
 
-1.1 Nabila Fauziah (Nabila)
-1.2 Qonita Yusriah (Qonita)
+1. Nabila Fauziah (Nabila)
+2. Qonita Yusriah (Qonita)
 </details>
 <details>
 <summary>
 <b>2️⃣. Arief Fathoni  dan  Siti Jami'atun </b>
 </summary>
 
-2.1. Azis Arief Setiawan
-2.2. Aqila Ramadani
+1. Azis Arief Setiawan
+2. Aqila Ramadani
 </details>
 <b>3️⃣. Imron Choirudin </b>
 <details>
@@ -150,25 +150,25 @@
 <b>4️⃣. Masrifa Choirina  dan  Gito Budi Naryanto </b>
 </summary>
 
-4.1. Alvina Amelia Maharani (Lia)
-4.2. Novita Candra Puspita
+1. Alvina Amelia Maharani (Lia)
+2. Novita Candra Puspita
 </details>
 <details>
 <summary>
 <b>5️⃣. Rofika Hanifa  dan  Bambang Widagdo Suryaning Projo</b>
 </summary>
 
-5.1. Farhan Naufal Adiyatma (farhan)
-5.2. Fadil Ihsan Adiyatma (fadil)
+1. Farhan Naufal Adiyatma (farhan)
+2. Fadil Ihsan Adiyatma (fadil)
 </details>
 <details>
 <summary>
 <b> 6️⃣. Sarifa Umaya  dan  Arief Wiratman</b>
 </summary>
 
-6.1. Anas Firmansyah
-6.2. Carissa Kirana
-6.3. Frida Nisa Ardani
+1. Anas Firmansyah
+2. Carissa Kirana
+3. Frida Nisa Ardani
 </details>
 </details>
 
@@ -188,9 +188,11 @@
 <b>1️⃣. Fikri Arifin  dan  Emalia Hasnaurrofah </b>
 </summary>
 
-1.1.Muhammad Zulfikar
-1.2. Hanif Muta'alim
-1.3. Zulhimatul Aliya
+1. Muhammad Zulfikar
+
+2. Hanif Muta'alim
+
+3. Zulhimatul Aliya
 </details>
 
 <details>
@@ -198,9 +200,11 @@
 <b>2️⃣. Radhian Fahma Wulandari  dan  Iwan Rustiawan  </b>
 </summary>
 
-2.1.Haula Ilma Al Ghoida' 
-2.2. Muhammad Ulinnuha Khoiruman
-2.3. Malik Makarim Alim
+1. Haula Ilma Al Ghoida' 
+
+2. Muhammad Ulinnuha Khoiruman
+
+3. Malik Makarim Alim
 </details>
 
 <details>
@@ -208,7 +212,7 @@
 <b>3️⃣. Fathinannisa  dan  Mikraj Agung Muhammad</b>
 </summary>
 
-3.1. Tamlikha Imaduddin Asy Syaakir
+1. Tamlikha Imaduddin Asy Syaakir
 </details>
 </details>
 
@@ -224,18 +228,23 @@
 <b>1️⃣. Santi Kusumaningrum  dan  Agung Susanto</b>
 </summary>
 
-1.1. Raditya Ahsan Rivanjaya
-1.2. Fahri Adli Hawari
-1.3. Aira Adiasti Nafeza
-1.4. Quinnisa Zaida Amalia
+1. Raditya Ahsan Rivanjaya
+
+2. Fahri Adli Hawari
+
+3. Aira Adiasti Nafeza
+
+4. Quinnisa Zaida Amalia
 </details>
 <details>
 <summary>
 <b>2️⃣. Ery Wahyuningrum  dan  Rudi Wahyono</b>
 </summary>
 
-2.1. Vino Abrar Adriansyah
-2.2. Rasya Fadhil  Adriansyah
+1. Vino Abrar Adriansyah
+
+2. Rasya Fadhil  Adriansyah
+
 </details>
 <b>3️⃣. Lisa Setyaningrum</b>
 </details>
@@ -267,24 +276,28 @@
 <b>1️⃣. Luthfi Arifin  dan  Shinta Nugraheni </b>
 </summary>
 
-1.1. Zafran Ahsan Arifin 
-1.2. Nayyara Amalia Abdilla 
+1. Zafran Ahsan Arifin 
+
+2. Nayyara Amalia Abdilla 
 </details>
 <details>
 <summary>
 <b>2️⃣. Lathifa Maya Dewi  dan  Unggul Anantakusuma </b>
 </summary>
 
-2.1. Alika Isykarima Hanif
-2.2. Aidan Fausta El Karim
+1. Alika Isykarima Hanif
+
+2. Aidan Fausta El Karim
 </details>
+
 <b>3️⃣. Lathifa Rahma Hayati  dan  Muhammad Hafidz Makarim</b>
+
 <details>
 <summary>
 <b>4️⃣. Luthfi Bahrul Anwari  dan  Annisa Nur Rachmawati </b>
 </summary>
 
-4.1. Emir Miqdam Atharrazka
+1. Emir Miqdam Atharrazka
 </details>
 
 </details>
@@ -302,8 +315,9 @@
 <b>1️⃣. Zain Afif Hidayat  dan  Anggun Shandy Ina Maza</b>
 </summary>
 
-1.1 Athafariz Zayyan Malik
-1.2 Atharrazka Zaidan Rafif
+1. Athafariz Zayyan Malik
+
+2. Atharrazka Zaidan Rafif
 
 </details>
 <details>
@@ -311,8 +325,9 @@
 <b>2️⃣. Irfan Asrofy Hidayat  dan  Linda Susilowati</b>
 </summary>
 
-2.1 Rayhan Hakam Asrofy
-2.2 Laquina Shezanameera Asrofy
+1. Rayhan Hakam Asrofy
+
+2. Laquina Shezanameera Asrofy
 
 </details>
 
