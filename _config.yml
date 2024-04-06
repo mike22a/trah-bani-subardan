@@ -1,11 +1,11 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - silsilah2.md
-  - README.md
+# plugins:
+#   - jekyll-relative-links
+# relative_links:
+#   enabled: true
+#   collections: true
+# include:
+#   - silsilah2.md
+#   - README.md
   # - CONTRIBUTING.md
   # - LICENSE.md
   # - COPYING.md
@@ -13,3 +13,10 @@ include:
   # - CONTRIBUTING.md
   # - ISSUE_TEMPLATE.md
   # - PULL_REQUEST_TEMPLATE.md
+
+  defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /your-markdown-file-name.html
