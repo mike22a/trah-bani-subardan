@@ -251,9 +251,11 @@
 <b>Achmad Muhtarom dan  Umi hani'ah</b>
 </summary>
 
-<b>1️⃣. Burhan Fatkhur Rohman  dan  Ikrimah Nur Hayati.</b>
+<b>1️⃣. Fida (almarhumah).</b>
 
-<b>2️⃣. Aufa Haliza Achmad</b>
+<b>2️⃣. Burhan Fatkhur Rohman  dan  Ikrimah Nur Hayati.</b>
+
+<b>3️⃣. Aufa Haliza Achmad</b>
 </details>
 
 ---
@@ -280,6 +282,7 @@
 1. Alika Isykarima Hanif
 2. Aidan Fausta El Karim
 </details>
+
 <b>3️⃣. Lathifa Rahma Hayati  dan  Muhammad Hafidz Makarim</b>
 
 <details>
@@ -315,9 +318,7 @@
 </summary>
 
 1. Rayhan Hakam Asrofy
-
 2. Laquina Shezanameera Asrofy
-
 </details>
 
 <b>3️⃣. Afnan Fauzi Hidayat</b>
