@@ -281,6 +281,7 @@
 2. Aidan Fausta El Karim
 </details>
 <b>3️⃣. Lathifa Rahma Hayati  dan  Muhammad Hafidz Makarim</b>
+
 <details>
 <summary>
 <b>4️⃣. Luthfi Bahrul Anwari  dan  Annisa Nur Rachmawati </b>
@@ -334,6 +335,7 @@
 </summary>
 
 <b>1️⃣. Yusron Farid Mustafa</b>
+
 <b>2️⃣. Arvin Alan Gifari</b>
 
 </details>
