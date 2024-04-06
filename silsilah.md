@@ -25,7 +25,7 @@
 
 <details>
 <summary>
-    <b>1️. Ufiek Nur Arifah Hidayati  dan  Wildan Tojibi  </b>
+    <b>1️⃣. Ufiek Nur Arifah Hidayati  dan  Wildan Tojibi  </b>
 </summary>
 
 <details>
@@ -144,7 +144,9 @@
 1. Azis Arief Setiawan
 2. Aqila Ramadani
 </details>
+
 <b>3️⃣. Imron Choirudin </b>
+
 <details>
 <summary>
 <b>4️⃣. Masrifa Choirina  dan  Gito Budi Naryanto </b>
@@ -189,9 +191,7 @@
 </summary>
 
 1. Muhammad Zulfikar
-
 2. Hanif Muta'alim
-
 3. Zulhimatul Aliya
 </details>
 
@@ -201,9 +201,7 @@
 </summary>
 
 1. Haula Ilma Al Ghoida' 
-
 2. Muhammad Ulinnuha Khoiruman
-
 3. Malik Makarim Alim
 </details>
 
@@ -229,11 +227,8 @@
 </summary>
 
 1. Raditya Ahsan Rivanjaya
-
 2. Fahri Adli Hawari
-
 3. Aira Adiasti Nafeza
-
 4. Quinnisa Zaida Amalia
 </details>
 <details>
@@ -242,9 +237,7 @@
 </summary>
 
 1. Vino Abrar Adriansyah
-
 2. Rasya Fadhil  Adriansyah
-
 </details>
 <b>3️⃣. Lisa Setyaningrum</b>
 </details>
@@ -277,7 +270,6 @@
 </summary>
 
 1. Zafran Ahsan Arifin 
-
 2. Nayyara Amalia Abdilla 
 </details>
 <details>
@@ -286,12 +278,9 @@
 </summary>
 
 1. Alika Isykarima Hanif
-
 2. Aidan Fausta El Karim
 </details>
-
 <b>3️⃣. Lathifa Rahma Hayati  dan  Muhammad Hafidz Makarim</b>
-
 <details>
 <summary>
 <b>4️⃣. Luthfi Bahrul Anwari  dan  Annisa Nur Rachmawati </b>
@@ -344,7 +333,7 @@
 <b>Bp Nasir Mustafa dan  Ibu Nur Farida Suryani </b>
 </summary>
 
-<b>1️⃣. Yusron Farid Mustafa</b> <br>
+<b>1️⃣. Yusron Farid Mustafa</b>
 <b>2️⃣. Arvin Alan Gifari</b>
 
 </details>
