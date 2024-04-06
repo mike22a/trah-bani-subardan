@@ -251,7 +251,7 @@
 <b>Achmad Muhtarom dan  Umi hani'ah</b>
 </summary>
 
-<b>1️⃣. Fida (almarhumah).</b><br>
+<b>1️⃣. Aulia Nuril Hafida (almarhumah).</b><br>
 <b>2️⃣. Burhan Fatkhur Rohman  dan  Ikrimah Nur Hayati.</b><br>
 <b>3️⃣. Aufa Haliza Achmad</b><br>
 </details>
