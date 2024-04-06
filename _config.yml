@@ -4,8 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - silsilah.md
-  # - README.md
+  # - silsilah.md
+  - README.md
   # - CONTRIBUTING.md
   # - LICENSE.md
   # - COPYING.md
